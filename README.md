@@ -1,5 +1,6 @@
 # 26-solver
 Simple Javascript script that will find solutions to the puzzle "26".
+<<<<<<< HEAD
 
 The Puzzle
 ----------
@@ -25,3 +26,5 @@ How to Use
 
 Open index.html and click the solve button. All possible solutions will be printed in the Javascript console.
 
+=======
+>>>>>>> 66a5f1c7de7746d162fc068b962503723b503c1e
